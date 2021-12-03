@@ -1,5 +1,7 @@
 ### [colab python](https://colab.research.google.com/drive/1fRkn4s6_SLthwDVrtcScgneFUeIv6Ei0?usp=sharing)
 
+Файлы `ALL.counts` и `ALL.info` записаны в формате csv. Чтобы их прочитать из `R` у них есть копии `ALLt.counts` и `ALLt.info` в формате tsv
+
 ### statistics
 
 Sample Name  | % Dups | % GC | Length | % Failed | M Seqs
