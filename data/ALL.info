@@ -1,0 +1,7 @@
+sample,id,condition
+r1,SRR3414629,control
+r2,SRR3414630,control
+r3,SRR3414631,control
+c1,SRR3414635,reprogramming
+c2,SRR3414636,reprogramming
+c3,SRR3414637,reprogramming
